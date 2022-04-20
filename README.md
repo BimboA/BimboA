@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BimboA
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning DevOPS
+- 👀 I’m interested in DeevOPs
+- 🌱 I’m a Computer Scientist
 - 💞️ I’m looking to collaborate on DEvOPs projects
 - 📫 How to reach me ...
 
